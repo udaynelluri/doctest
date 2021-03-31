@@ -1,0 +1,8 @@
+site_name: "RefDoc"
+site_description: "ok"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

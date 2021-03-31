@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "RefDoc"
+  description: "ok"
+  annotations:
+    github.com/project-slug: udaynelluri/doctest
+    backstage.io/techdocs-ref: url:https://github.com/udaynelluri/doctest
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Ok"
