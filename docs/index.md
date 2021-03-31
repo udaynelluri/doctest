@@ -1,6 +1,6 @@
-## RefDoc
+## Innersourcing Documentation Project
 
-ok
+Licensing Documentation
 
 ## Getting started
 
